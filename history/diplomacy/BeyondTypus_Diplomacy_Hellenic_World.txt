@@ -1,0 +1,7 @@
+# --> others
+vassal = {
+	first = ATH
+	second = NEG
+	start_date = 1396.1.1 #sometime in 1396
+	end_date = 1484.1.1 #after annexation of Athens by the Achaean League
+}
