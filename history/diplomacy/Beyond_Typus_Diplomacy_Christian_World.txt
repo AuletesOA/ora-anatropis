@@ -292,12 +292,6 @@ vassal = {
 	start_date = 1444.1.1
 	end_date = 1669.1.1 #Ottoman conquest
 } #Candia
-vassal = {
-	first = VEN
-	second = NEG
-	start_date = 1444.1.1
-	end_date = 1669.1.1 #Ottoman conquest
-} #Negroponte
 
 vassal = {
 	first = VEN
