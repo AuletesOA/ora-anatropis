@@ -481,3 +481,52 @@ ZIR = "countries/Zirqan.txt" #BT
 ZDN = "countries/Zenden.txt" #BT
 ZOS = "countries/Zossen.txt" #BT
 ZUR = "countries/Zurich.txt" #BT
+
+#Balkans
+MKD = "countries/Makedon.txt"
+THR = "countries/Thrace.txt"
+HIS = "countries/Histri.txt"
+DOC = "countries/Docleatae.txt"
+DEL = "countries/Delmatae.txt"
+DST = "countries/Daesitiates.txt"
+CLP = "countries/Colapiani.txt"
+BRC = "countries/Breuci.txt"
+LRS = "countries/Illyris.txt"
+SDC = "countries/Scordisci.txt"
+HEL = "countries/Hellas.txt"
+AHC = "countries/AchaeaL.txt"
+THE = "countries/Thessaly.txt"
+
+#Italy
+SYK = "countries/Syrakousai.txt"
+GRT = "countries/Trigarta.txt"
+RMA = "countries/Roma.txt"
+HRC = "countries/Heraclea.txt"
+HPN = "countries/Hipponion.txt"
+THI = "countries/Thouroi.txt"
+TAS = "countries/Taras.txt"
+PSN = "countries/Poseidonia.txt"
+BRN = "countries/Barion.txt"
+SPS = "countries/Sipious.txt"
+AVN = "countries/Avelino.txt"
+
+#Levant
+ASY = "countries/Assyria.txt"
+GLT = "countries/Galatia.txt"
+BTH = "countries/Bithynia.txt"
+PON = "countries/Pontus.txt"
+CIC = "countries/Kilikia.txt"
+PHO = "countries/Phoenecia.txt"
+LYD = "countries/Lydia.txt"
+PGM = "countries/Pergamon.txt"
+KYR = "countries/Kyrenaike.txt"
+LYC = "countries/Lycia.txt"
+DMC = "countries/Demetrias.txt"
+SEL = "countries/Seleucids.txt"
+
+#Persia
+HPO = "countries/Hippokrates.txt"
+MGY = "countries/Magyars.txt"
+SUR = "countries/Surenids.txt"
+JAH = "countries/Jahangirids.txt"
+KHB = "countries/Khubyarids.txt"

@@ -1,0 +1,90 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 188  166  93 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Abdhamon #0" = 5
+	"Abibaal #0" = 5
+	"Adonibaal #0" = 5
+	"Baaliahon #0" = 5
+	"Barekbaal #0" = 5
+	"Eshmounhilles #0" = 5
+	"Hannibal #3" = 15
+	"Hasdrubal #1" = 10
+	"Hamilcar #2" = 10
+	"Itthobal #0" = 5
+	"Ummashtart #0" = 5
+	"Urumilki #0" = 5
+	"Hanno #4" = 5
+	"Mago #6" = 10
+	"Phameas #1" = 5
+
+	"Dido #3" = -30
+	"Abdosir #0" = -10
+	"Astarte #0" = -1
+	"Fatima #0" = -1
+	"Tamar #0" = -1
+	"Batnoam #0" = -1
+	"Sophonisba" = -1
+	"Sappho #0" = -1
+
+}
+
+leader_names = {
+	Taher
+	Akimi
+	Adhoum
+	Hakimi
+	Naybet
+	Bassir
+	Saber
+	Badra
+	Sassi
+	Dali
+	Mago
+	Phameas
+	Hannibal
+	Hasdrubal
+	Hamilcar
+	Himilico
+	Bomilicar
+}
+
+ship_names = {
+	"Qart Hadasht" "Tyrean" "Marsala" "Galah" "Tharelid" "Dalilid" "Syrakousion" "Hellas" "Rahmat" "Oua" "Punicum" 
+	"Tyre" "Heptero" "Hispania" "Tetr" "Hannibalid" "Africannae" "Breaker of the Pillars" "Heracles" "Hamat" 
+	"Qh" "El" "Yehowah" "Rhodi" "The Arabian" "Dread of the Greek" "Hadashut" "Qart al Dido" "Didoan" 
+	"Badra" "Baal"
+}

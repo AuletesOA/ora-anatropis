@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+capital = 2750
+
+1444.11.10 = {
+	monarch = {
+		name = "Kaigiza II"
+		dynasty = Odrys
+		birth_date = 1425.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}

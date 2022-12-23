@@ -1,0 +1,34 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = albanian
+religion = orthodox
+technology_group = eastern
+capital = 130 # Istria
+
+1432.5.25 = {
+	monarch = {
+		name = "Bashkim Nikolla"
+		dynasty = "Losha"
+		birth_date = 1404.9.19
+		adm = 3
+		dip = 5
+		mil = 2
+		leader = {  name = "Bashkim Losha"			type = admiral  fire = 4  shock = 2  manuever = 6  siege = 0}
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = greedy_personality
+}
+
+1437.2.7 = {
+	heir = {
+		name = "Ismail"
+		dynasty = "Losha"
+		birth_date = 1437.2.7
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}

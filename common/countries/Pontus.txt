@@ -2,17 +2,19 @@
 
 graphical_culture = easterngfx
 
-color = { 100  50  150 }
+color = {
+	61  8  81
+}
 
 historical_idea_groups = {
-	trade_ideas
-	quantity_ideas
-	economic_ideas
-	maritime_ideas
+	religious_ideas
 	defensive_ideas
-	innovativeness_ideas
+	spy_ideas
+	trade_ideas
 	offensive_ideas
-	quality_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
 }
 
 historical_units = {
@@ -37,7 +39,7 @@ historical_units = {
 monarch_names = {
 	"Georgios #0" = 40
 	"Alexandros #0" = 20
-	"Filippos #0" = 20
+	"Croesus #0" = 20
 	"Pavlos #0" = 15
 	"Andreas #0" = 10
 	"Nikolaos #0" = 10

@@ -1,0 +1,7 @@
+government = republic
+add_government_reform = oligarchy_reform
+technology_group = eastern
+religion = orthodox
+primary_culture = griko
+capital = 121 # Napoli
+fixed_capital = 121 # Napoli

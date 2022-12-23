@@ -1,0 +1,115 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 96  96  96 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Albazi #0" = 10
+	"Ashur #0" = 10
+	"Daniyel #0" = 10
+	"Eliyah #0" = 10
+	"Goriel #0" = 10
+	"Malko #0" = 10
+	"Pirayou #0" = 10
+	"Qanaya #0" = 10
+	"Rume #0" = 10
+	"Shamash #0" = 10
+}
+
+leader_names = {
+	Aho
+	Albazi
+	Ashur
+	Asmaro
+	Asu
+	Asur
+	Barsawme
+	Batnaya
+	Caifas
+	Eesho
+	Elqosh
+	Eshai
+	Gabbara
+	Hormuzd
+	Ishaia
+	Iskhaq
+	Khoshaba
+	Luqa
+	Malkuno
+	Muska
+	Nobonidus
+	Nineveh
+	Palakh
+	Palkha
+	Pirayou
+	Qanaya
+	Rabbu
+	Shalimoon
+	Takhana
+	Ukubu
+	Uras
+	Younan
+	Zaia
+}
+
+ship_names = {
+	Aho
+	Albazi
+	Ashur
+	Asmaro
+	Asu
+	Asur
+	Barsawme
+	Batnaya
+	Caifas
+	Eesho
+	Elqosh
+	Eshai
+	Gabbara
+	Hormuzd
+	Ishaia
+	Iskhaq
+	Khoshaba
+	Luqa
+	Malkuno
+	Muska
+	Nobonidus
+	Nineveh
+	Palakh
+	Palkha
+	Pirayou
+	Qanaya
+	Rabbu
+	Shalimoon
+	Takhana
+	Ukubu
+	Uras
+	Younan
+	Zaia
+}
