@@ -513,7 +513,7 @@ AVN = "countries/Avelino.txt"
 #Levant
 ASY = "countries/Assyria.txt"
 GLT = "countries/Galatia.txt"
-BTH = "countries/Bithynia.txt"
+BTY = "countries/Bithynia.txt"
 PON = "countries/Pontus.txt"
 CIC = "countries/Kilikia.txt"
 PHO = "countries/Phoenecia.txt"
