@@ -5,8 +5,8 @@
 #Core Details
 capital = "Sidon"
 is_city = yes
-owner = MAM
-controller = MAM
+owner = PHO
+controller = PHO
 
 #Demographics
 culture = al_suryah_arabic
@@ -19,15 +19,11 @@ base_manpower = 2
 trade_goods = cotton
 
 #Cores and Occupation (Alphabetical after current)
-add_core = MAM
+add_core = PHO
 add_core = LEB
 
 #Other Political
 hre = no
-
-#Fort/Other Buildings
-
-#Special Modifiers
 
 #Discoveries
 discovered_by = muslim
@@ -37,5 +33,3 @@ discovered_by = western
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
-
-#Histories 

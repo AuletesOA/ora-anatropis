@@ -1,7 +1,7 @@
 # 316 - Izmit
-owner = BTH
-controller = BTH
-add_core = BTH
+owner = BTY
+controller = BTY
+add_core = BTY
 culture = turkish
 religion = sunni
 capital = "Izmit"
