@@ -496,6 +496,7 @@ SDC = "countries/Scordisci.txt"
 HEL = "countries/Hellas.txt"
 AHC = "countries/AchaeaL.txt"
 THE = "countries/Thessaly.txt"
+DRD = "countries/Dardania.txt"
 
 #Italy
 SYK = "countries/Syrakousai.txt"

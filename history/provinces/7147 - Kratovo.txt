@@ -1,7 +1,7 @@
 # BT Balkans reoverhaul
-owner = SER
-controller = SER
-add_core = SER
+owner = DRD
+controller = DRD
+add_core = DRD
 culture = serbian # Niki emphatically notes this region was Serbian - Indeed
 religion = orthodox
 capital = "Kratovo"
