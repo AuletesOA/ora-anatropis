@@ -498,6 +498,16 @@ AHC = "countries/AchaeaL.txt"
 THE = "countries/Thessaly.txt"
 DRD = "countries/Dardania.txt"
 
+#Anatolia
+BTY = "countries/Bithynia.txt"
+PON = "countries/Pontus.txt"
+CIC = "countries/Kilikia.txt"
+LYD = "countries/Lydia.txt"
+GLT = "countries/Galatia.txt"
+PGM = "countries/Pergamon.txt"
+LYC = "countries/Lycia.txt"
+ION = "countries/Ionia.txt"
+
 #Italy
 SYK = "countries/Syrakousai.txt"
 GRT = "countries/Trigarta.txt"
@@ -511,19 +521,14 @@ BRN = "countries/Barion.txt"
 SPS = "countries/Sipious.txt"
 AVN = "countries/Avelino.txt"
 
-#Levant
+#Mesopotamia
 ASY = "countries/Assyria.txt"
-GLT = "countries/Galatia.txt"
-BTY = "countries/Bithynia.txt"
-PON = "countries/Pontus.txt"
-CIC = "countries/Kilikia.txt"
-PHO = "countries/Phoenecia.txt"
-LYD = "countries/Lydia.txt"
-PGM = "countries/Pergamon.txt"
-KYR = "countries/Kyrenaike.txt"
-LYC = "countries/Lycia.txt"
-DMC = "countries/Demetrias.txt"
 SEL = "countries/Seleucids.txt"
+
+#Levant
+PHO = "countries/Phoenecia.txt"
+KYR = "countries/Kyrenaike.txt"
+DMC = "countries/Demetrias.txt"
 
 #Persia
 HPO = "countries/Hippokrates.txt"

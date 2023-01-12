@@ -4,4 +4,4 @@ government_rank = 1
 technology_group = eastern
 primary_culture = greek
 religion = orthodox
-capital = 316	# Kocaeli
+capital = 316	# Optimaton

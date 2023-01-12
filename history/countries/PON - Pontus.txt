@@ -4,4 +4,4 @@ government_rank = 1
 technology_group = eastern
 primary_culture = pontic_greek
 religion = orthodox
-capital = 328	# Sinop
+capital = 6039	# Oinaion

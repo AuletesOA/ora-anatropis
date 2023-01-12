@@ -4,4 +4,4 @@ government_rank = 1
 technology_group = eastern
 primary_culture = greek
 religion = orthodox
-capital = 4309	# Aydin
+capital = 6004	# Pergamon

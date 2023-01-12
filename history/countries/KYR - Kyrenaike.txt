@@ -4,5 +4,5 @@ government_rank = 1
 primary_culture = greek
 religion = orthodox
 technology_group = eastern
-capital = 357	# Darnah
-fixed_capital = 146 # Cannot move capital away from this province & no power cost to move to it
+capital = 356	# Kyrenaike
+fixed_capital = 356 # Cannot move capital away from this province & no power cost to move to it
