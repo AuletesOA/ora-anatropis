@@ -1,0 +1,146 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new dieties, make sure they are uniquely named.
+
+deity_tinia =
+{
+	global_missionary_strength = 0.05
+	horde_unity = 0.1
+	legitimacy = 0.1
+
+	allow = { religion = etruscan_pagan }
+	sprite = 7
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}
+	}
+}
+
+deity_cel =
+{
+	hostile_attrition = 1
+	build_cost = -0.15
+
+	allow = { religion = etruscan_pagan }
+	sprite = 10
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_colonialist
+		}
+	}
+}
+
+deity_uni =
+{
+	diplomatic_reputation = 1
+	global_tax_modifier = 0.1
+
+	allow = { religion = etruscan_pagan }
+	sprite = 12
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			NOT = { num_of_cities = 5 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { num_of_cities = 10 }
+		}
+		modifier = {
+			factor = 0.5
+			num_of_cities = 30
+		}
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_capitalist
+		}
+	}
+}
+
+deity_turan =
+{
+	land_forcelimit_modifier = 0.2
+	local_manpower_modifier = 0.1
+
+	allow = { religion = etruscan_pagan }
+	sprite = 8
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_colonialist
+		}
+	}
+}
+
+deity_laran =
+{
+	land_morale = 0.05
+	siege_ability = 0.05
+
+	allow = { religion = etruscan_pagan }
+	sprite = 9
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}
+	}
+}
+
+
+deity_thalna =
+{
+	global_trade_goods_size = 0.25
+	trade_efficiency = 0.2
+
+	allow = { religion = etruscan_pagan }
+	sprite = 11
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}
+	}
+}

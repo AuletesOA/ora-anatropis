@@ -1,0 +1,147 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new dieties, make sure they are uniquely named.
+
+deity_ataegina =
+{
+	build_cost = -0.15
+	horde_unity = 0.1
+	local_production_efficiency = 0.20
+
+	allow = { religion = iberian_pagan }
+	sprite = 8
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}
+	}
+}
+
+deity_tanit =
+{
+	improve_relation_modifier = 0.20
+	local_manpower_modifier = 0.2
+
+	allow = { religion = iberian_pagan }
+	sprite = 8
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_colonialist
+		}
+	}
+}
+
+deity_asclepius =
+{
+	manpower_recovery_speed = 0.15
+	heir_chance = 1.0
+
+	allow = { religion = iberian_pagan }
+	sprite = 12
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			NOT = { num_of_cities = 5 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { num_of_cities = 10 }
+		}
+		modifier = {
+			factor = 0.5
+			num_of_cities = 30
+		}
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_capitalist
+		}
+	}
+}
+
+deity_achelous =
+{
+	naval_morale = 0.05
+	naval_forcelimit_modifier = 0.10
+	trade_efficiency = 0.1
+
+	allow = { religion = iberian_pagan }
+	sprite = 11
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_colonialist
+		}
+	}
+}
+
+deity_baal =
+{
+	infantry_power = 0.05
+	local_manpower_modifier = 0.1
+
+	allow = { religion = iberian_pagan }
+	sprite = 9
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}
+	}
+}
+
+
+deity_melqart =
+{
+	legitimacy = 0.1
+	global_unrest = -1
+
+	allow = { religion = iberian_pagan }
+	sprite = 7
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}
+	}
+}

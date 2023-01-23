@@ -1,0 +1,8 @@
+bookmark =
+{
+	name = "1223_ORA_ANATROPIS_NAME"
+	desc = "1223_ORA_ANATROPIS_DESC"
+	date = 1223.6.11
+	
+	country = TUR
+}

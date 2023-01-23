@@ -482,6 +482,9 @@ ZDN = "countries/Zenden.txt" #BT
 ZOS = "countries/Zossen.txt" #BT
 ZUR = "countries/Zurich.txt" #BT
 
+
+## OA COUNTRIES ##
+
 #Balkans
 MKD = "countries/Makedon.txt"
 THR = "countries/Thrace.txt"
@@ -497,6 +500,8 @@ HEL = "countries/Hellas.txt"
 AHC = "countries/AchaeaL.txt"
 THE = "countries/Thessaly.txt"
 DRD = "countries/Dardania.txt"
+AX0 = "countries/Byzantion.txt"
+
 
 #Anatolia
 BTY = "countries/Bithynia.txt"
