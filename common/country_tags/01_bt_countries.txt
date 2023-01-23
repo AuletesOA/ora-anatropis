@@ -541,3 +541,6 @@ MGY = "countries/Magyars.txt"
 SUR = "countries/Surenids.txt"
 JAH = "countries/Jahangirids.txt"
 KHB = "countries/Khubyarids.txt"
+
+#Pontic Steppe
+BSP = "countries/BosporanKingdom.txt"
