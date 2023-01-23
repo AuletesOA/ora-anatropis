@@ -1,0 +1,67 @@
+Premise: 
+Rome never comes to rise. The Romans never conquer Italy, are unable to defeat the Gauls in northern Italy and are humiliated by a coalition of the Greek polises
+in Magna Graecia, putting an end to Roman dominance, and putting the Greeks back on the rise.
+Carthage later collapses due to pressure from the Greeks as well as a Numidian rebellion.
+
+
+"Lore":
+***Alexander lives for quite a few more years, accomplishes more goals, Diadochi wars still happen
+**Rome never fell, but instead has been decaying, too strong to BE conquered, too weak TO conquer
+Bc of Hellas's rise and Makedon's resurgence, the Aegean islands have banded together
+**Huns invade, devastate balkans and destroy rising Antipatrids allowing the forgotten Antigonid dynasty to regain power in Makedon but are unable to take Pella
+**Slavs never migrate into the Balkans
+Ireland is still Christian
+The British Isles would still be Celtic, Celto-Jutish in some areas
+Northeast Germany would be mostly German, some Slavic
+*There were some german migrations/invasions into the balkans and one into anatolia in the 9th century during an moment of greek weakness
+*Magyars migrate to western Caucasus
+
+Notable things for dev:
+"fort_15th = yes" means a level 2 fort
+Wallachia is to be Getic (the Getae) culture
+Transylvania is to be Apuli culture
+Moldavian land is to be Carpi culture
+Odrysian Kingdom formable should be Thrace's + Getae's starting lands, 4073, 4705, 4779, 151
+Add native Illyrian decision to form 7th Illyrian Kingdom (5th and 6th were after the birth of Christ)
+HRE will be in India
+Hippokrates should have good cavalry ideas
+
+ROME:
+Civil war at game start between 2 influential families, one person was declared dictator by the Senate and 
+the other by the Plebs
+Said civil war inspires Samnite (maybe) and and Etruscan revolt
+
+
+I should make Thessaly independent but guaranteed by greece and makedon
+it should have a disaster or event chain where greece and makedon play for influence in the country and whoever wins annexes or vassalizes it
+if thesaly manages to remain independent, complete a mission and give some claims along with some decent buffs for 20 or 25 years
+obv give them a bunch of cavalry stuff bc "muh thessalian cavalry"
+
+galatians will be independent and dominate central anatolia 
+they've been hellenized largely, adopting the greek alphabet (?), using either the greek language with celtic loan words or celtic language with greek loan words and adopting many greek cultural customs
+split into 2 or 3 tags maybe
+
+tripolis (eu4 denizli province #4308) is mentioned as a lydian city by pliny the elder, hierocles, and william mitchell ramsay
+Hippokrates rises after fall of Mongol control in Persia
+Mongol Empire is halted by Hellenic coalition in Anatolia, Mongols expand more in Eastern Europe
+
+Magyar mission tree split between staying pagan horde or becoming christian kingdom, maybe another small branch for hellenization or magyar ways
+
+Assyria is gonna be a heavily Christianized society, one of the earliest to adopt Christ
+They HATE the diadokhoi
+
+PERSIA:
+2-3 Persian houses vying for power
+Surenids in south
+		-Surenids are all about Persian independence and separate from the Greeks, but still worship Christ
+		-Surenids have been nobles in south for centuries, maybe millenia, but took opportunity to gain major power after collapse of Jahangirids
+Jahangirids in northeast
+		-Jahangir was born the 3rd son of a Persian noble in the 1300's under a diadokoi 
+		-His mother was the 2nd wife of her husband 
+		-She poisoned her husbands two previous sons to ensure Jahangir comes to power
+		When he does, he gathered strength and allies in order to overthrow his local Greek dynasty, and ends up slaughtering all the Greeks in the lands he controls
+		He conquers most of Persia and moves towards Bactria before being invaded by a coalition of the diadokhoi, and he wins a number of defensive battles and severely drains the coalition's resources.
+		He actually goes on the offensive and sacks Babylon, before being met in Kilikia by a Hellenic army and finally being defeated. A few more minor battles are fought, a few towns are razed, and the 
+		end of the war comes with the battle of Amol, in which Jahangir himself is killed. Without Jahangir, his empire swiftly crumbles, with the remains of his country in the northeast in a regency under
+		his pregnant wife.
+		-Jahangirids are all about reviving Old Persia and the Achaemenid legacy, Jahangir thought himself to be Cyrus
