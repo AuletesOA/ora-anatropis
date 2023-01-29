@@ -1,8 +1,8 @@
 # Core Details
 capital = "Ramla"
 is_city = yes
-owner = MAM
-controller = MAM
+owner = CNN
+controller = CNN
 # Demographics
 culture = al_suryah_arabic
 religion = jewish
@@ -12,8 +12,7 @@ base_production = 2
 base_manpower = 1
 trade_goods = bt_trade_good_fruit # (JP) Famed for its quality Olive Oil across the Med
 # Cores and Occupation (Alphabetical after current)
-add_core = MAM
-add_core = PLS
+add_core = CNN
 # Other Political
 hre = no
 # Discoveries
@@ -28,12 +27,3 @@ discovered_by = east_african
 # 6072 - Ramla/Ashkelon
 # Area -
 # Region -
-################################################################################
-
-################################################################################
-# Fort/Other Buildings
-################################################################################
-
-################################################################################
-# Special Modifiers
-################################################################################

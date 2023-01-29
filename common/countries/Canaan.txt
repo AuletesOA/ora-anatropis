@@ -1,0 +1,185 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 0  102  51 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Aeson #0" = 10
+	"Aguha #0" = 10
+	"Alehiyya #0" = 10
+	"Alsonyses #0" = 10 
+	"Akhiqar #0" = 10
+	"Anlel #0" = 10
+	"Antzius #0" = 10
+	"Anzapahhaddu #0" = 10
+	"Aretas #0" = 10
+	"Aseta #0" = 10
+	"Aumana #0" = 10
+	"Awi Bail #0" = 10
+	"Awshalim #0" = 10
+	"Azarah #0" = 10
+	"Baildan #0" = 10
+	"Bazaya #0" = 10
+	"Bineil #0" = 10
+	"Daknapura #0" = 10
+	"Diodorus #0" = 10
+	"Ennanum #0" = 10
+	"Erishuml #0" = 10
+	"Giliana #0" = 10
+	"Halpahi #0" = 10
+	"Kartinuwa #0" = 10
+	"Lykoaras #0" = 10
+	"Malichus #0" = 10
+	"Marona #0" = 10
+	"Masturi #0" = 10
+	"Mesthles #0" = 10
+	"Mlimar #0" = 10
+	"Muliyaziti #0" = 10
+	"Narses #0" = 10
+	"Nassir #0" = 10
+	"Nabo Ram #0" = 10
+	"Oaleksandros #0" = 10
+	"Obodas #0" = 10
+	"Parriyanaziti #0" = 10
+	"Phrixos #0" = 10
+	"Piha #0" = 10
+	"Rabbel #0" = 10
+	"Ramsen #0" = 10
+	"Shamash Eriba #0" = 10
+	"Shamash Uparra #0" = 10
+	"Shmou Eil #0" = 10
+	"Siwanala #0" = 10
+	"Timonah #0" = 10
+	"Tudiya #0" = 10
+	"Urawalkui #0" = 10
+	"Ushpia #0" = 10
+	"Yadida #0" = 10
+	"Yakmeshi #0" = 10
+	"Zomaya #0" = 10
+
+	"Gamilat #0" = -10
+	"Haganu #0" = -10
+	"Hagru #0" = -10
+	"Shaqilat #0" = -10 
+}
+
+leader_names = {
+	Meesha
+	NaSsir
+	Bineil
+	Yakmesi
+	Shamash Eriba
+	Giliana
+	Marona
+	Ushpia
+	Nabo Ram
+	Shmou Eil
+	Azarah
+	Zomaya
+	Ramsen
+	Akhiqar
+	Mlimar
+	Aguha
+	Awshalim
+	Aeson
+	Aseta 
+	Diodorus
+	Alehiyya
+	Lykoaras
+	Timonah
+	Phrixos
+	Narses
+	Mesthles 
+	Ennanum
+	Erishum
+	Bazaya
+	Shamash Uparra
+	Dem Atour
+	Yadida
+	Baildan
+	Awi Bail
+	Tudiya
+	Ha Wail
+	Aumana
+	Anlel
+	Siwanala
+	Urawalkui
+	Anzapahhaddu
+	Daknapura
+	Masturi
+	Kartinuwa
+	Parriyanaziti
+	Muliyaziti
+	Piha
+	Halpahi
+	Antzius 
+	Alsonyses
+}
+
+ship_names = {
+	Aho
+	Al-Kutba
+	Allat
+	Al-Uzza
+	Baalshamin
+	Dushara
+	Manawat
+	Albazi
+	Ashur
+	Asmaro
+	Asu
+	Asur
+	Barsawme
+	Batnaya
+	Caifas
+	Eesho
+	Elqosh
+	Eshai
+	Gabbara
+	Hormuzd
+	Ishaia
+	Iskhaq
+	Khoshaba
+	Luqa
+	Malkuno
+	Muska
+	Nobonidus
+	Nineveh
+	Palakh
+	Palkha
+	Pirayou
+	Qanaya
+	Rabbu
+	Shalimoon
+	Takhana
+	Ukubu
+	Uras
+	Younan
+	Zaia
+}
