@@ -534,6 +534,7 @@ SEL = "countries/Seleucids.txt"
 PHO = "countries/Phoenecia.txt"
 KYR = "countries/Kyrenaike.txt"
 DMC = "countries/Demetrias.txt"
+NAB = "countries/Nabataeans.txt"
 
 #Persia
 HPO = "countries/Hippokrates.txt"
