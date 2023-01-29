@@ -7511,6 +7511,7 @@ BSP: "Bosporan Kingdom"
 BSP_ADJ: "Bosporan"
 NAB: "Nabataean Kingdom"
 NAB_ADJ: "Nabataean"
+<<<<<<< Updated upstream
 AX0: "Byzantion"
 AX0_ADJ: "Byzantine"
 E09: "Cicones"
@@ -7519,5 +7520,7 @@ E08: "Thynii"
 E08_ADJ: "Thynii"
 E07: "Sithones"
 E07_ADJ: "Sithones"
+=======
+>>>>>>> Stashed changes
 CNN: "Canaan"
 CNN_ADJ: "Canaanite"
