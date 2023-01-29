@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = eastern
+primary_culture = odrysian
+religion = thracian_pagan
+capital = 7136
+
+1223.6.11 = {
+	monarch = {
+		name = "Anaxilas IV"
+		dynasty = of Lesbos
+		birth_date = 1193.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+}

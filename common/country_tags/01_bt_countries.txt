@@ -501,6 +501,9 @@ AHC = "countries/AchaeaL.txt"
 THE = "countries/Thessaly.txt"
 DRD = "countries/Dardania.txt"
 AX0 = "countries/Byzantion.txt"
+E09 = "countries/Cicones.txt"
+E08 = "countries/Thynii.txt"
+E07 = "countries/Sithones.txt"
 
 
 #Anatolia

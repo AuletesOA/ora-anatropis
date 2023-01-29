@@ -1,0 +1,93 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 197 201 147 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Avizina #0" = 2
+	"Bast #0" = 2
+	"Bikili #0" = 2
+	"Blaesus #0" = 2
+	"Blaikisa #0" = 2
+	"Brasus #0" = 2
+	"Burebista #0" = 4
+	"Charnabon #0" = 2
+	"Comosicus #0" = 2
+	"Cothelas #0" = 2
+	"Cotiso #0" = 2
+	"Dablosa #0" = 2
+	"Dadazi #0" = 2
+	"Daizus #0" = 2
+	"Damanais #0" = 2
+	"Dapyx #0" = 6
+	"Dardanos #0" = 2
+	"Dardiolai #0" = 2
+	"Decaeneus #0" = 2
+	"Decebalus #0" = 6
+	"Denzibalos #0" = 2
+	"Dekinais #0" = 2
+	"Dicomes #0" = 2
+	"Diurpaneus #0" = 4
+	"Duras #0" = 2
+	"Kaigiza #0" = 2
+	"Komakissa #0" = 2
+	"Moskon #0" = 2
+	"Mucapor #0" = 2
+	"Mucatra #0" = 4
+	"Natoporus #0" = 2
+	"Oroles #0" = 2
+	"Pieporus #0" = 2
+	"Rhemaxos #0" = 6
+	"Rigozus #0" = 2
+	"Rubobostes #0" = 2
+	"Scorylo #0" = 2
+	"Tarbus #0" = 2
+	"Thiamarkos #0" = 4
+	"Tsinna #0" = 2
+	"Zyraxes #0" = 4
+	"Rescuturme #0" = -10
+	"Zia #0" = -10
+}
+
+leader_names = {
+	Avizina Bast Bikili Blaesus Blaikisa Brasus Burebista Charnabon Comosicus Cothelas Cotiso Dablosa Dadazi Daizus 
+	Damanais Dapyx Dardanos Dardiolai Decaeneus Decebalus Denzibalos Dekinais Dicomes Diurpaneus Duras Kaigiza
+	Komakissa Moskon Mucapor Mucatra Natoporus Oroles Pieporus Rhemaxos Rigozus Rubobostes Scorylo Tarbus Thiamarkos 
+	Tsinna Zyraxes
+}
+
+ship_names = {
+	Burebista Charnabon Comosicus Cothelas Cotiso Dapyx Decaeneus Decebalus Dicomes Diurpaneus Duras Komakiza Natoporus 
+	Pieporus Rubobostes Tarbus Thiamarkos Zia Zyraxes
+}

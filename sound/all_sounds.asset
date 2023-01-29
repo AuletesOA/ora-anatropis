@@ -1,4 +1,4 @@
-sound = {
+﻿sound = {
 	name = defender_of_the_catholic_faith
 	file = "claim_defender_faith_catholic.wav"
 }
@@ -13,16 +13,6 @@ sound = {
 sound = {
 	name = defender_of_the_ibadi_faith
 	file = "claim_defender_faith_ibadi.wav"
-}
-# BT Added
-sound = {
-	name = defender_of_the_alawite_faith
-	file = "claim_defender_faith_shia.wav"
-}
-# BT Added
-sound = {
-	name = defender_of_the_druze_faith
-	file = "claim_defender_faith_sunni.wav"
 }
 sound = {
 	name = defender_of_the_protestant_faith
@@ -39,16 +29,6 @@ sound = {
 sound = {
 	name = defender_of_the_coptic_faith
 	file = "claim_defender_faith_coptic.wav"
-}
-# BT Added
-sound = {
-	name = defender_of_the_apostolic_faith
-	file = "claim_defender_faith_coptic.wav"
-}
-# BT Added
-sound = {
-	name = defender_of_the_nestorian_faith
-	file = "claim_defender_faith_orthodox.wav"
 }
 sound = {
 	name = age_of_discovery
@@ -117,16 +97,6 @@ sound = {
 	name = start_convert_zoroastrian
 	file = "start_conversion_zoroastrian.wav"
 }
-# BT Added
-sound = {
-	name = start_convert_mandaean
-	file = "start_conversion_zoroastrian.wav"
-}
-# BT Added
-sound = {
-	name = start_convert_yazidi
-	file = "start_conversion_zoroastrian.wav"
-}
 sound = {
 	name = start_convert_catholic
 	file = "start_conversion_christian_catholic.wav"
@@ -137,16 +107,6 @@ sound = {
 }
 sound = {
 	name = start_convert_coptic
-	file = "start_conversion_christian_orthodox.wav"
-}
-# BT Added
-sound = {
-	name = start_convert_apostolic
-	file = "start_conversion_christian_orthodox.wav"
-}
-# BT Added
-sound = {
-	name = start_convert_nestorian
 	file = "start_conversion_christian_orthodox.wav"
 }
 sound = {
@@ -197,18 +157,8 @@ sound = {
 	name = start_convert_ibadi
 	file = "start_conversion_muslim_shiite.wav"
 }
-# BT Added
-sound = {
-	name = start_convert_alawite
-	file = "start_conversion_muslim_shiite.wav"
-}
 sound = {
 	name = start_convert_sunni
-	file = "start_conversion_muslim_sunni.wav"
-}
-# BT Added
-sound = {
-	name = start_convert_druze
 	file = "start_conversion_muslim_sunni.wav"
 }
 sound = {
@@ -311,7 +261,6 @@ sound = {
 	name = revolt
 	#file = "old/revolt.wav"
 	file = "rebels_revolt_alert.wav"
-	volume = 0.7
 }
 sound = {
 	name = country_select
@@ -583,7 +532,6 @@ sound = {
 	name = papacy
 	#file = "old/religionview.wav"
 	file = "papacy_view.wav"
-	volume = 0.8
 }
 sound = {
 	name = parliament
@@ -592,7 +540,6 @@ sound = {
 sound = {
 	name = coptic_blessings
 	file = "coptic_blessings_view.wav"
-	volume = 0.6
 }
 sound = {
 	name = merchant_republic
@@ -626,12 +573,10 @@ sound = {
 	name = hre
 	#file = "old/lawview.wav"
 	file = "holy_roman_empire_screen.wav"
-	volume = 0.8
 }
 sound = {
 	name = celestial_empire
 	file = "chinese_empire_interface.wav"
-	volume = 0.6
 }
 sound = {
 	name = harsh
@@ -676,18 +621,6 @@ sound = {
 	file = "start_conversion_zoroastrian.wav"
 }
 
-# BT Added
-sound = {
-	name = religion_yazidi
-	file = "start_conversion_zoroastrian.wav"
-}
-
-# BT Added
-sound = {
-	name = religion_mandaean
-	file = "start_conversion_zoroastrian.wav"
-}
-
 sound = {
 	name = religion_catholic
 	file = "tab_religion_christian.wav"
@@ -715,18 +648,6 @@ sound = {
 
 sound = {
 	name = religion_orthodox
-	file = "tab_religion_christian.wav"
-}
-
-# BT Added
-sound = {
-	name = religion_apostolic
-	file = "tab_religion_christian.wav"
-}
-
-# BT Added
-sound = {
-	name = religion_nestorian
 	file = "tab_religion_christian.wav"
 }
 
@@ -805,17 +726,6 @@ sound = {
 	file = "tab_religion_muslim.wav"
 }
 
-# BT Added
-sound = {
-	name = religion_alawite
-	file = "tab_religion_muslim.wav"
-}
-
-# BT Added
-sound = {
-	name = religion_druze
-	file = "tab_religion_muslim.wav"
-}
 
 #########################################
 #### ARE USED, BUT SHOULD BE CHECKED ####
@@ -1002,7 +912,6 @@ sound = {
 	name = mountainranges
 	file = "amb/general/amb_mountain_loop.wav"
 	always_load = yes
-	volume = 0.60
 }
 
 sound = {
@@ -1162,30 +1071,530 @@ sound = {
 	file = "debate_lose.wav"
 }
 
-############### Silent Wavfiles to insert delay
-
-sound = 
-{
-    name = "sfx_silence_delay_3sec"
-    file = "sfx_silence_delay_3sec.wav"
+# New Religion Sounds
+# Christian Religions
+# Cathar Religion
+sound = {
+	name = religion_cathar
+	file = "tab_religion_christian.wav"
 }
-sound = 
-{
-    name = "sfx_silence_delay_6sec"
-    file = "sfx_silence_delay_6sec.wav"
+sound = {
+	name = start_convert_cathar
+	file = "start_conversion_christian_catholic.wav"
 }
-sound = 
-{
-    name = "sfx_silence_delay_9sec"
-    file = "sfx_silence_delay_9sec.wav"
+# Lollard Religion
+sound = {
+	name = religion_lollard
+	file = "tab_religion_christian.wav"
 }
-sound = 
-{
-    name = "sfx_silence_delay_12sec"
-    file = "sfx_silence_delay_12sec.wav"
+sound = {
+	name = start_convert_lollard
+	file = "start_conversion_christian_protestant.wav"
 }
-sound = 
-{
-    name = "sfx_silence_delay_15sec"
-    file = "sfx_silence_delay_15sec.wav"
+# Fraticelli Religion
+sound = {
+	name = religion_fraticelli
+	file = "tab_religion_christian.wav"
+}
+sound = {
+	name = start_convert_fraticelli
+	file = "start_conversion_christian_catholic.wav"
+}
+# Waldensian Religion
+sound = {
+	name = religion_waldensian
+	file = "tab_religion_christian.wav"
+}
+sound = {
+	name = start_convert_waldensian
+	file = "start_conversion_christian_protestant.wav"
+}
+# Monophysite Religion
+sound = {
+	name = religion_waldensian
+	file = "tab_religion_christian.wav"
+}
+sound = {
+	name = start_convert_waldensian
+	file = "start_conversion_christian_orthodox.wav"
+}
+# Bogomilist Religion
+sound = {
+	name = religion_bogomilist
+	file = "tab_religion_christian.wav"
+}
+sound = {
+	name = start_convert_bogomilist
+	file = "start_conversion_christian_orthodox.wav"
+}
+# Monothelite Religion
+sound = {
+	name = religion_monothelite
+	file = "tab_religion_christian.wav"
+}
+sound = {
+	name = start_convert_monothelite
+	file = "start_conversion_christian_orthodox.wav"
+}
+# Iconoclast Religion
+sound = {
+	name = religion_iconoclast
+	file = "tab_religion_christian.wav"
+}
+sound = {
+	name = start_convert_iconoclast
+	file = "start_conversion_christian_orthodox.wav"
+}
+# Paulician Religion
+sound = {
+	name = religion_paulician
+	file = "tab_religion_christian.wav"
+}
+sound = {
+	name = start_convert_paulician
+	file = "start_conversion_christian_orthodox.wav"
+}
+# Nestorian Religion
+sound = {
+	name = religion_nestorian
+	file = "tab_religion_christian.wav"
+}
+sound = {
+	name = start_convert_nestorian
+	file = "start_conversion_christian_orthodox.wav"
+}
+# Messalian Religion
+sound = {
+	name = religion_messalian
+	file = "tab_religion_christian.wav"
+}
+sound = {
+	name = start_convert_messalian
+	file = "start_conversion_christian_orthodox.wav"
+}
+# Jewish Religions
+# Samaritan
+sound = {
+	name = religion_samaritan
+	file = "start_conversion_jewish.wav"
+}
+sound = {
+	name = start_convert_samaritan
+	file = "start_conversion_jewish.wav"
+}
+# Karaite
+sound = {
+	name = religion_karaite
+	file = "start_conversion_jewish.wav"
+}
+sound = {
+	name = start_convert_karaite
+	file = "start_conversion_jewish.wav"
+}
+# Mazdaki
+sound = {
+	name = religion_mazdaki
+	file = "start_conversion_zoroastrian.wav"
+}
+sound = {
+	name = start_convert_mazdaki
+	file = "start_conversion_zoroastrian.wav"
+}
+# Manichean
+sound = {
+	name = religion_manichean
+	file = "start_conversion_zoroastrian.wav"
+}
+sound = {
+	name = start_convert_manichean
+	file = "start_conversion_zoroastrian.wav"
+}
+# Yazidi
+sound = {
+	name = religion_yazidi
+	file = "start_conversion_zoroastrian.wav"
+}
+sound = {
+	name = start_convert_yazidi
+	file = "start_conversion_zoroastrian.wav"
+}
+# Islam, Muslim Religion
+# Zikri
+sound = {
+	name = religion_zikri
+	file = "tab_religion_muslim.wav"
+}
+sound = {
+	name = start_convert_zikri
+	file = "start_conversion_muslim_sunni.wav"
+}
+# Kharijite
+sound = {
+	name = religion_kharijite
+	file = "tab_religion_muslim.wav"
+}
+sound = {
+	name = start_convert_kharijite
+	file = "start_conversion_muslim_shiite.wav"
+}
+# Druze
+sound = {
+	name = religion_druze
+	file = "start_conversion_zoroastrian.wav"
+}
+sound = {
+	name = start_convert_druze
+	file = "start_conversion_zoroastrian.wav"
+}
+# Hurufi
+sound = {
+	name = religion_hurufi
+	file = "tab_religion_muslim.wav"
+}
+sound = {
+	name = start_convert_hurufi
+	file = "start_conversion_muslim_shiite.wav"
+}
+# Alevi
+sound = {
+	name = religion_alevi
+	file = "tab_religion_muslim.wav"
+}
+sound = {
+	name = start_convert_alevi
+	file = "start_conversion_muslim_sunni.wav"
+}
+# Indian Religions
+# Jain Religion
+sound = {
+	name = religion_jain
+	file = "tab_religion_india.wav"
+}
+sound = {
+	name = start_convert_jain
+	file = "start_conversion_eastern_hinduism.wav"
+}
+# Tamil Religion
+sound = {
+	name = religion_tamil_pagan
+	file = "tab_religion_india.wav"
+}
+sound = {
+	name = start_convert_tamil_pagan
+	file = "start_conversion_eastern_hinduism.wav"
+}
+# Eastern Religions
+# Daoism
+sound = {
+	name = religion_daoism
+	file = "tab_religion_eastern.wav"
+}
+sound = {
+	name = start_convert_daoism
+	file = "start_conversion_eastern_confucianism.wav"
+}
+# Wuism
+sound = {
+	name = religion_wuism
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_wuism
+	file = "start_conversion_pagan_shamanism.wav"
+}
+# Shindo
+sound = {
+	name = religion_shindo
+	file = "tab_religion_eastern.wav"
+}
+sound = {
+	name = start_convert_shindo
+	file = "start_conversion_eastern_shinto.wav"
+}
+# Totemism Religions
+# Nor-Papua
+sound = {
+	name = religion_norpapua_pagan
+	file = "tab_religion_america.wav"
+}
+sound = {
+	name = start_convert_norpapua_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Iban Religion
+sound = {
+	name = religion_iban_pagan
+	file = "tab_religion_america.wav"
+}
+sound = {
+	name = start_convert_iban_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Birhor Religion
+sound = {
+	name = religion_birhor_pagan
+	file = "tab_religion_america.wav"
+}
+sound = {
+	name = start_convert_birhor_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Kpelle Religion
+sound = {
+	name = religion_kpelle_pagan
+	file = "tab_religion_america.wav"
+}
+sound = {
+	name = start_convert_kpelle_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Wiradjuri
+sound = {
+	name = religion_wiradjuri_pagan
+	file = "tab_religion_america.wav"
+}
+sound = {
+	name = start_convert_wiradjuri_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Pagane Religionen
+# Vodun
+sound = {
+	name = religion_vodun
+	file = "temple_african.wav"
+}
+sound = {
+	name = start_convert_vodun
+	file = "start_conversion_pagan_animism.wav"
+}
+# Romuva Religion
+sound = {
+	name = religion_romuva
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_romuva
+	file = "start_conversion_pagan_animism.wav"
+}
+# Suomenusko Religion
+sound = {
+	name = religion_suomenusko
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_suomenusko
+	file = "start_conversion_pagan_shamanism.wav"
+}
+# Slavic Religion
+sound = {
+	name = religion_slavic_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_slavic_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Germanic Religion
+sound = {
+	name = religion_germanic_pagan
+	file = "start_conversion_norse.wav"
+}
+sound = {
+	name = start_convert_germanic_pagan
+	file = "start_conversion_norse.wav"
+}
+# Celtic Religion
+sound = {
+	name = religion_celtic_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_celtic_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Hellenic Religion
+sound = {
+	name = religion_hellenic_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_hellenic_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Etruscan Religion
+sound = {
+	name = religion_etruscan_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_etruscan_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Roman Religion
+sound = {
+	name = religion_roman_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_roman_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Scythian Religion
+sound = {
+	name = religion_scythian_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_scythian_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# South Arabian Religion
+sound = {
+	name = religion_sarab_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_sarab_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Illyrian Religion
+sound = {
+	name = religion_illyrian_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_illyrian_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Thracian Religion
+sound = {
+	name = religion_thracian_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_thracian_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Iberian Religion
+sound = {
+	name = religion_iberian_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_iberian_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Mesopotamian Religion
+sound = {
+	name = religion_mesopotamian_pagan
+	file = "start_conversion_zoroastrian.wav"
+}
+sound = {
+	name = start_convert_mesopotamian_pagan
+	file = "start_conversion_zoroastrian.wav"
+}
+# Zun Religion
+sound = {
+	name = religion_zun_pagan
+	file = "start_conversion_zoroastrian.wav"
+}
+sound = {
+	name = start_convert_zun_pagan
+	file = "start_conversion_zoroastrian.wav"
+}
+# Egyptian Religion
+sound = {
+	name = religion_egyptian_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_egyptian_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Punic Religion
+sound = {
+	name = religion_punic_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_punic_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Nabatean Religion
+sound = {
+	name = religion_nabatean_pagan
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_nabatean_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Sounds für Vanilla
+# Nahuatl Religion
+sound = {
+	name = religion_nahuatl
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_nahuatl_pagan
+	file = "start_conversion_pagan_animism.wav"
+}
+# Maya Religion
+sound = {
+	name = religion_mesoamerican_religion
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_mesoamerican_religion
+	file = "start_conversion_pagan_animism.wav"
+}
+# Totemism
+sound = {
+	name = start_convert_totemism
+	file = "start_conversion_pagan_animism.wav"
+}
+# Inti Religion
+sound = {
+	name = religion_inti
+	file = "tab_religion_pagan.wav"
+}
+sound = {
+	name = start_convert_inti
+	file = "start_conversion_pagan_animism.wav"
+}
+# Shamanism Old Religion
+sound = {
+	name = religion_shamanism_pagan
+	file = "tab_religion_shamanism.wav"
+}
+sound = {
+	name = start_convert_shamanism_pagan
+	file = "start_conversion_pagan_shamanism.wav"
+}
+# Dayawism
+sound = {
+	name = religion_dayawism_pagan
+	file = "tab_religion_eastern.wav"
+	}
+sound = {
+	name = start_convert_dayawism_pagan
+	file = "start_conversion_eastern_shinto.wav"
+}
+# Atheism
+sound = {
+	name = religion_atheism
+	file = "sheep.wav"
+	}
+sound = {
+	name = start_convert_atheism
+	file = "sheep.wav"
+}
+# Atenism
+sound = {
+	name = religion_aten_pagan
+	file = "tab_religion_pagan.wav"
+	}
+sound = {
+	name = start_convert_aten_pagan
+	file = "start_conversion_pagan_animism.wav"
 }
