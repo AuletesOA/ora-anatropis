@@ -4,7 +4,7 @@ is_city = yes
 owner = NAB
 controller = NAB
 # Demographics
-culture = al_suryah_arabic
+culture = nabataean
 religion = sunni
 # Development and Trade
 base_tax = 1
@@ -23,7 +23,3 @@ discovered_by = western
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
-################################################################################
-# 6082 - Jabal al-Arab/later Jabal al-Druze
-# Area -
-# Region -

@@ -4,7 +4,7 @@ is_city = yes
 owner = ASY
 controller = ASY
 # Demographics
-culture = al_iraqiya_arabic
+culture = assyrian
 religion = sunni
 # Development and Trade
 base_tax = 1
@@ -23,7 +23,3 @@ discovered_by = western
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
-################################################################################
-# 6091 - Maskanah
-# Area -
-# Region -

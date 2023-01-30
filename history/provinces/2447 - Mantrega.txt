@@ -1,7 +1,7 @@
 # 2447 - Matrega
 owner = BSP
 controller = BSP
-culture = pontic_greek
+culture = cimmerian_greek
 religion = orthodox
 hre = no
 base_tax = 3
@@ -11,7 +11,6 @@ base_manpower = 1
 capital = "Matrega"
 is_city = yes
 add_core = BSP
-add_core = CIR
 extra_cost = 8
 center_of_trade = 1
 discovered_by = western

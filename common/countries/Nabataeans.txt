@@ -91,7 +91,7 @@ monarch_names = {
 
 leader_names = {
 	Meesha
-	NaSsir
+	Nassir
 	Bineil
 	Yakmesi
 	Shamash Eriba

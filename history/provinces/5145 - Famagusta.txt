@@ -2,7 +2,7 @@
 owner = CYP
 controller = CYP
 add_core = CYP
-culture = cypriot
+culture = arcadian
 religion = orthodox
 capital = "Famagusta"
 trade_goods = sugar

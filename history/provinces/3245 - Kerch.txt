@@ -1,17 +1,16 @@
-#3245 - Kerch
+# 3245 - Kerch
 owner = BSP
-controller = BSP 
-culture = pontic_greek
+controller = BSP
+culture = cimmerian_greek
 religion = orthodox
 hre = no
-base_tax = 3 
-base_production = 3 
+base_tax = 3
+base_production = 3
 trade_goods = salt
-base_manpower = 1 
+base_manpower = 1
 capital = "Vosporo"
 is_city = yes
 add_core = BSP
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

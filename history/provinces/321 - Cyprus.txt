@@ -1,26 +1,22 @@
- 
-#321 - Cyprus
-
+# 321 - Cyprus
 owner = CYP
 controller = CYP
 add_core = CYP
-culture = cypriot
+culture = arcadian
 religion = orthodox
 capital = "Limassol"
-trade_goods = naval_supplies #(JP) Forest plus main K. of Cyprus Port
+trade_goods = naval_supplies # (JP) Forest plus main K. of Cyprus Port
 hre = no
 base_tax = 3
 base_production = 4
-base_manpower = 2 
+base_manpower = 2
 is_city = yes
-
-
-1444.1.1 = { discovered_by = KAZ }
-1444.1.1 = { discovered_by = CRI }
-1444.1.1 = { discovered_by = GOL }
-1444.1.1 = { discovered_by = AST }
-1444.1.1 = { discovered_by = QAS }
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+1444.1.1 = { discovered_by = KAZ } 
+1444.1.1 = { discovered_by = CRI } 
+1444.1.1 = { discovered_by = GOL } 
+1444.1.1 = { discovered_by = AST } 
+1444.1.1 = { discovered_by = QAS } 

@@ -1,7 +1,7 @@
 # 2411 - Mansur
 owner = BSP
 controller = BSP
-culture = crimean
+culture = cimmerian_greek
 religion = sunni
 hre = no
 base_tax = 1

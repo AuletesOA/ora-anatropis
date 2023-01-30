@@ -3160,6 +3160,24 @@ arabic_group = {
 	}
 	nabataean = {
 		primary = NAB
+		male_names = {
+			Meesha Nassir Bineil
+			Yakmesi "Shamash Eriba" Giliana Marona
+			Ushpia Nabo Ram "Shmou Eil" Azarah Zomaya
+			Ramsen Akhiqar Mlimar Aguha Awshalim Aeson
+			Aseta Diodorus Alehiyya Lykoaras Timonah
+			Phrixos Narses Mesthles Ennanum Erishum
+			Bazaya "Shamash Uparra" "Dem Atour" Yadida Baildan
+			"Awi Bail" Tudiya "Ha Wail" Aumana Anlel Siwanala
+			Urawalkui Anzapahhaddu Daknapura Masturi Kartinuwa
+			Parriyanaziti Muliyaziti Piha Halpahi Antzius Alsonyses
+		}
+		female_names = {
+			Gamilat Haganu Hagru Shaqilat
+		}
+		dynasty_names = {
+			Aretas
+		}
 	}
 	dadanitic = {
 		primary = LIH

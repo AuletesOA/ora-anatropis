@@ -4,7 +4,7 @@ is_city = yes
 owner = DMC
 controller = DMC
 # Demographics
-culture = al_suryah_arabic
+culture = phoenician
 religion = shiite # Actual Shia's
 # Development and Trade
 base_tax = 3
@@ -24,7 +24,3 @@ discovered_by = western
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
-################################################################################
-# 6074 - Tyre
-# Area -
-# Region -

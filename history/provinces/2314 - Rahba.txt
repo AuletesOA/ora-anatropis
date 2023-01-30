@@ -1,7 +1,7 @@
 # 2314 - Rahba
 owner = ASY
 controller = ASY
-culture = al_iraqiya_arabic
+culture = assyrian
 religion = sunni
 capital = "Deyrizor"
 trade_goods = cotton # (JP) Cotton produced along the middle Euphrates

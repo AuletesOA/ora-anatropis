@@ -1,11 +1,10 @@
-#406 - Hit
-
+# 406 - Hit
 owner = IRQ
 controller = IRQ
-culture = al_iraqiya_arabic
+culture = babylonian
 religion = sunni
 capital = "Hit"
-trade_goods = gems #(JP) Best thing to represent Bitumen?
+trade_goods = gems # (JP) Best thing to represent Bitumen?
 hre = no
 base_tax = 1
 base_production = 1
@@ -19,24 +18,24 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = eastern
-
-
-1469.2.4 = {
-	owner = AKK
-	controller = AKK
-	add_core = AKK
-	remove_core = QAR
+1469.2.4 = { 
+    owner = AKK
+    controller = AKK
+    add_core = AKK
+    remove_core = QAR
 }
-1507.1.1 = {
-	owner = PER
-	controller = PER
-	add_core = PER		
-	remove_core = AKK
+
+1507.1.1 = { 
+    owner = PER
+    controller = PER
+    add_core = PER
+    remove_core = AKK
 } # The Safavids took over
-1515.1.1 = { discovered_by = POR }
-1536.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-	remove_core = PER
+
+1515.1.1 = { discovered_by = POR } 
+1536.1.1 = { 
+    owner = TUR
+    controller = TUR
+    add_core = TUR
+    remove_core = PER
 } # Part of the Ottoman Empire

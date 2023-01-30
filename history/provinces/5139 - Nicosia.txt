@@ -4,7 +4,7 @@
 owner = CYP
 controller = CYP
 add_core = CYP
-culture = cypriot
+culture = arcadian
 religion = orthodox
 capital = "Nicosia"
 trade_goods = cloth #(JP) Moved sugar to coastal Italian owned provinces

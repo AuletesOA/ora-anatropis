@@ -1,7 +1,7 @@
 # 418 - Diyarbakir
 owner = ASY
 controller = ASY
-culture = assyrian_culture
+culture = assyrian
 religion = orthodox
 capital = "Diyarbakir"
 trade_goods = copper # abundant resources of copper around the city.

@@ -1,7 +1,7 @@
 # 380 - Al Karak
 owner = NAB
 controller = NAB
-culture = al_suryah_arabic
+culture = nabataean
 religion = sunni
 capital = "Kerak"
 trade_goods = bt_trade_good_fruit # (JP) Apricots, Pears and Pomegranates notably
@@ -12,7 +12,6 @@ base_manpower = 2
 is_city = yes
 add_core = NAB
 fort_15th = yes
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

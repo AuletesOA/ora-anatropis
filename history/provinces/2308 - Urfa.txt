@@ -1,7 +1,7 @@
 # 2308 - Cizre
 owner = ASY
 controller = ASY
-culture = kurdish
+culture = assyrian
 religion = sunni
 capital = "Edessa" # Edessa is the Greek version, Turkish form is Urfa until the 20th century, Arabic version is Al-Ruha and Urhay is the Syriac version. Might change this later, but going with Turkish version for now because a Turkish culture is probably the most likely
 trade_goods = spices # (JP) Urfa Pepper
@@ -18,9 +18,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 discovered_by = indian
-################################################################################
-# this history actually looks okay to me, though I'm no expert
-# In 1031 Edessa was given up to the Byzantines under George Maniakes by its Arab governor. It was retaken by the Arabs, and then successively held by the Greeks, the Armenians, the Seljuk Turks, the Crusaders, who established there the County of Edessa and kept the city until 1144,
-# when it was again captured by the Turk Zengi, and most of its inhabitants were allegedly slaughtered together with the Latin archbishop (see Siege of Edessa).[20] These events are known to us chiefly through the Armenian historian Matthew, who had been born at Edessa.
-# In 1144 the city had an Armenian population of 47,000. In 1890, the population of Edessa consisted of 55,000, of which the Muslim population made up 40,835.
-################################################################################

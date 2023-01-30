@@ -2,7 +2,7 @@
 owner = BSP
 controller = BSP
 add_core = BSP
-culture = crimean
+culture = cimmerian_greek
 religion = sunni
 capital = "Ichki"
 base_tax = 3

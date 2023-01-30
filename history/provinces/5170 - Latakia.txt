@@ -1,17 +1,16 @@
 owner = PHO
 controller = PHO
 add_core = PHO
-culture = al_suryah_arabic
+culture = phoenician
 religion = alawite
 capital = "Latakia"
-trade_goods = naval_supplies #(JP) Major port plus forests
+trade_goods = naval_supplies # (JP) Major port plus forests
 hre = no
 base_tax = 2
 base_production = 3
 base_manpower = 2
 is_city = yes
-#Crusader Antioch core, possibly
-
+# Crusader Antioch core, possibly
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

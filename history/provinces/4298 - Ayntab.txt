@@ -2,7 +2,7 @@
 owner = ASY
 controller = ASY
 add_core = ASY
-culture = al_iraqiya_arabic
+culture = assyrian
 religion = sunni
 capital = "Aintab"
 trade_goods = spices # Olive groves, vineyards, and Pistachio orchards, going with spices for pistachios

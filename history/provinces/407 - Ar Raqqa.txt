@@ -1,7 +1,7 @@
 # 407 - Ar-Raqqah
 owner = ASY
 controller = ASY
-culture = al_iraqiya_arabic
+culture = assyrian
 religion = sunni # The city retained an active Christian community well into the Middle Ages
 capital = "Rakka" # Many versions in latin alphabet, just going with this one for fun, plus I have no idea what the differences are.
 trade_goods = livestock # (JP) Pretty abandoned area, tribal and rural

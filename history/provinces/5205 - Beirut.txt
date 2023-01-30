@@ -2,7 +2,7 @@
 owner = PHO
 controller = PHO
 add_core = PHO
-culture = syriac_culture
+culture = phoenician
 religion = catholic # Maronites
 capital = "Beirut"
 trade_goods = naval_supplies # Cedar trees of Lebanon

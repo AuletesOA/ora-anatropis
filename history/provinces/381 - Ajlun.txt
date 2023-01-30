@@ -1,7 +1,7 @@
 # 381 - Ajloun
 owner = NAB
 controller = NAB
-culture = al_suryah_arabic
+culture = nabataean
 religion = sunni
 capital = "Ajloun" # Vanilla capital is fine, was going to go with Bosra, but whatever
 trade_goods = bt_trade_good_fruit # (JP) Mix of fruits and grapes, mostly Muslims so this not wine

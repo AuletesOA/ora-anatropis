@@ -1,7 +1,7 @@
 # 285 - Kaffa
 owner = BSP
 controller = BSP
-culture = ligurian
+culture = cimmerian_greek
 religion = catholic
 hre = no
 base_tax = 5

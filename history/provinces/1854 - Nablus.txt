@@ -1,7 +1,7 @@
 # 1854 - Negev
 owner = E10
 controller = E10
-culture = al_suryah_arabic
+culture = hebrew
 religion = jewish
 capital = "Nablus"
 trade_goods = cloth # (JP) Nablus famous for its cloths and linen

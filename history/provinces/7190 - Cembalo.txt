@@ -2,7 +2,7 @@
 owner = BSP
 controller = BSP
 add_core = BSP
-culture = pontic_greek
+culture = cimmerian_greek
 religion = orthodox
 capital = "Cembalo"
 base_tax = 4

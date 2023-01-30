@@ -4,7 +4,7 @@ is_city = yes
 owner = E10
 controller = E10
 # Demographics
-culture = al_suryah_arabic
+culture = hebrew
 religion = jewish
 # Development and Trade
 base_tax = 3
