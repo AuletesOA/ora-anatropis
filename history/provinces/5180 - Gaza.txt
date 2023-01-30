@@ -1,7 +1,7 @@
 # No previous file for Beyond Typus or Beyond the Pale Legacy province
-owner = CNN
-controller = CNN
-add_core = CNN
+owner = E10
+controller = E10
+add_core = E10
 culture = al_suryah_arabic
 religion = sunni
 capital = "Gaza"

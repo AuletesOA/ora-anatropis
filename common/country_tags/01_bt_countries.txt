@@ -538,7 +538,7 @@ PHO = "countries/Phoenecia.txt"
 KYR = "countries/Kyrenaike.txt"
 DMC = "countries/Demetrias.txt"
 NAB = "countries/Nabataeans.txt"
-CAN = "countries/Canaan.txt"
+E10 = "countries/Canaan.txt"
 
 #Persia
 HPO = "countries/Hippokrates.txt"

@@ -1,6 +1,6 @@
 # 379 - Judea
-owner = CNN
-controller = CNN
+owner = E10
+controller = E10
 culture = al_suryah_arabic
 religion = sunni
 capital = "Jerusalem"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = CNN
+add_core = E10
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
